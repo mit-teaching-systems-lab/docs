@@ -1,5 +1,5 @@
 # Working agreement
-This is the working agreement for doing software engineering work in the Teaching Systems Lab.  We
+This is the working agreement for doing software engineering work in the Teaching Systems Lab.
 
 If you have questions, comments or improvements, please share them!  Open a pull request or come talk to @kevinrobinson or anyone else in the lab.
 
