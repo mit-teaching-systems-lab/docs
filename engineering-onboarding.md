@@ -17,10 +17,9 @@
 - Verify it works
 
 #### Amazon
-- Create an AWS account
+- Ask someone to create a user for you in the `Developers` group and securely send you the login page and credentials.
 - Set up two-factor auth
-- Ask someone to invite you to the appropriate AWS groups
-- Verify you can use services in AWS console (eg., S3)
+- Verify you can use services in AWS console (eg., S3).
 
 ### Heroku
 - Ask someone to invite you to the Heroku apps you need
