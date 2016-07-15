@@ -42,3 +42,6 @@ This can help us be aware of investments we're making across different projects,
 ##### Deployment
 - [Heroku](https://www.heroku.com/)
 - [Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)
+
+##### Error reporting
+- [Rollbar](https://rollbar.com/)
