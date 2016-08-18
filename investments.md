@@ -17,7 +17,7 @@ This can help us be aware of investments we're making across different projects,
 ##### User interface tools
 - [React](https://facebook.github.io/react/) for building web user interfaces.
 - [Material UI](http://www.material-ui.com/#/) as a component library for React in the style of [Material design](https://material.google.com/).
-- [Velocity React](https://github.com/twitter-fabric/velocity-react) for declaratively animatingReact components.
+- [Velocity React](https://github.com/twitter-fabric/velocity-react) for declaratively animating React components.
 - [Styling React components in JavaScript](https://speakerdeck.com/vjeux/react-css-in-js) for rationale on styling for React components in JavaScript.
 
 ##### JavaScript tooling
