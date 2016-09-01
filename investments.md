@@ -33,6 +33,11 @@ This can help us be aware of investments we're making across different projects,
 - [Sinon](http://sinonjs.org/) for creating spies, mocks and stubs.
 - [Enzyme](https://github.com/airbnb/enzyme) using [jsdom](https://github.com/airbnb/enzyme/blob/master/docs/guides/jsdom.md)
 
+##### Android development
+- [Cordova](https://cordova.apache.org/)
+- [Android Studio](https://developer.android.com/studio/index.html)
+- [Gradle](https://gradle.org/)
+
 ##### Storage systems
 - [PostgreSQL on Heroku](https://devcenter.heroku.com/articles/heroku-postgresql) for storing relational data or as a hybrid JSON document store.
 - [Amazon S3](https://aws.amazon.com/s3/)
