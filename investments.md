@@ -55,3 +55,6 @@ This can help us be aware of investments we're making across different projects,
 
 ##### Error reporting
 - [Rollbar](https://rollbar.com/)
+
+##### Sending email
+- [Mailgun](https://mailgun.com/)
