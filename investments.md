@@ -58,3 +58,9 @@ This can help us be aware of investments we're making across different projects,
 
 ##### Sending email
 - [Mailgun](https://mailgun.com/)
+
+##### Data analysis and visualization
+- [Jupyter](http://jupyter.org/) and [related stacks](https://github.com/jupyter/docker-stacks)
+
+##### Local development
+- [Docker for Mac](https://docs.docker.com/docker-for-mac/)
