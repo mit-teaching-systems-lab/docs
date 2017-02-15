@@ -15,7 +15,7 @@ This can help us be aware of investments we're making across different projects,
 - A [working agreement](./working-agreement.md) is used as a starting point for how teams work together.
 
 ##### User interface tools
-- [React](https://facebook.github.io/react/) for building web user interfaces.
+- [React](https://facebook.github.io/react/) for building web user interfaces.  See also our [Learning React](learning-react.md) doc.
 - [Material UI](http://www.material-ui.com/#/) as a component library for React in the style of [Material design](https://material.google.com/).
 - [Velocity React](https://github.com/twitter-fabric/velocity-react) for declaratively animating React components.
 - [Styling React components in JavaScript](https://speakerdeck.com/vjeux/react-css-in-js) for rationale on styling for React components in JavaScript.
