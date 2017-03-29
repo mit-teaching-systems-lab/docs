@@ -60,7 +60,7 @@ This can help us be aware of investments we're making across different projects,
 - [Mailgun](https://mailgun.com/)
 
 ##### Data analysis and visualization
-- [Jupyter](http://jupyter.org/) and [related stacks](https://github.com/jupyter/docker-stacks)
+- [Jupyter](http://jupyter.org/) and [related stacks](https://github.com/jupyter/docker-stacks) like [jupyter/datascience-notebook](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook)
 
 ##### Local development
 - [Docker for Mac](https://docs.docker.com/docker-for-mac/)
