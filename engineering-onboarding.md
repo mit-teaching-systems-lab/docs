@@ -24,7 +24,7 @@
 #### Heroku
 - Ask someone to invite you to the Heroku apps you need
 
-#### Encrypt any research dat
+#### Sending encrypted data
 - Install [gpg](https://gnupg.org/download/index.html)
 - The receiver should [export their public key as ASCII](https://www.gnupg.org/gph/en/manual/x56.html) and email or Slack it to sender
 - Sender [encrypts the message](https://www.gnupg.org/gph/en/manual/x110.html) and sends that along with their public key.
