@@ -11,6 +11,10 @@ This can help us be aware of investments we're making across different projects,
 ##### Source control
 - [mit-teaching-systems-lab](https://github.com/mit-teaching-systems-lab) is the GitHub organization for all lab projects.
 
+##### Editors
+- [Sublime](https://www.sublimetext.com/)
+- [babel-sublime](https://github.com/babel/babel-sublime)
+
 ##### Working agreement
 - A [working agreement](./working-agreement.md) is used as a starting point for how teams work together.
 
@@ -22,11 +26,11 @@ This can help us be aware of investments we're making across different projects,
 
 ##### JavaScript tooling
 - [ES6](https://babeljs.io/docs/learn-es2015/) using [Stage 2 presets](https://babeljs.io/docs/plugins/preset-stage-2/)
-- [Flow](https://flowtype.org/), for type-checking JavaScript
 - [eslint](http://eslint.org/), to lint for errors, using [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) and [babel-eslint](https://github.com/babel/babel-eslint)
 - [Browserify](http://browserify.org/) for building JavaScript
 - [Babelify](https://github.com/babel/babelify) for compiling ES6 and JSX as a Browserify transform
 - [livereactload](https://github.com/milankinen/livereactload) for live reloading React code built with Browserify
+- [Flow](https://flowtype.org/), for type-checking JavaScript
 
 ##### JavaScript testing
 - [Mocha](https://mochajs.org/) with jsdom, using [Chai's](http://chaijs.com/) expect assertions.
