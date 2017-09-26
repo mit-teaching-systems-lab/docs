@@ -27,6 +27,8 @@ This can help us be aware of investments we're making across different projects,
 ##### JavaScript tooling
 - [ES6](https://babeljs.io/docs/learn-es2015/) using [Stage 2 presets](https://babeljs.io/docs/plugins/preset-stage-2/)
 - [eslint](http://eslint.org/), to lint for errors, using [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) and [babel-eslint](https://github.com/babel/babel-eslint)
+- [yarn](https://yarnpkg.com/en/) for managing JS dependencies
+- [n](https://github.com/tj/n) for managing node.js versions
 - [Browserify](http://browserify.org/) for building JavaScript
 - [Babelify](https://github.com/babel/babelify) for compiling ES6 and JSX as a Browserify transform
 - [livereactload](https://github.com/milankinen/livereactload) for live reloading React code built with Browserify
