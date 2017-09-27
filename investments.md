@@ -18,6 +18,9 @@ This can help us be aware of investments we're making across different projects,
 ##### Working agreement
 - A [working agreement](./working-agreement.md) is used as a starting point for how teams work together.
 
+##### Design tools
+- [LICEcap](https://www.cockos.com/licecap/) for animated GIFs showing product features
+
 ##### User interface tools
 - [React](https://facebook.github.io/react/) for building web user interfaces.  See also our [Learning React](learning-react.md) doc.
 - [Material UI](http://www.material-ui.com/#/) as a component library for React in the style of [Material design](https://material.google.com/).
