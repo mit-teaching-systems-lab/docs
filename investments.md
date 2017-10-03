@@ -12,8 +12,9 @@ This can help us be aware of investments we're making across different projects,
 - [mit-teaching-systems-lab](https://github.com/mit-teaching-systems-lab) is the GitHub organization for all lab projects.
 
 ##### Editors
-- [Sublime](https://www.sublimetext.com/)
+- [Sublime](https://www.sublimetext.com/) with [Package Control](https://packagecontrol.io/)
 - [babel-sublime](https://github.com/babel/babel-sublime)
+- [SublimeLinter](http://www.sublimelinter.com/en/latest/) with [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
 
 ##### Working agreement
 - A [working agreement](./working-agreement.md) is used as a starting point for how teams work together.
