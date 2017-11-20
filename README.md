@@ -5,6 +5,7 @@ Teaching Systems Lab engineering docs
 Welcome!  If you're looking to get started, please check out:
  - [Engineering onboarding](https://github.com/mit-teaching-systems-lab/docs/blob/master/engineering-onboarding.md)
  - [Working agreement](https://github.com/mit-teaching-systems-lab/docs/blob/master/working-agreement.md)
+ - [How to GitHub](https://github.com/mit-teaching-systems-lab/docs/blob/master/github.md)
  
 If you're starting a new project, you may also want to check out:
  - [Investments](https://github.com/mit-teaching-systems-lab/docs/blob/master/investments.md)
